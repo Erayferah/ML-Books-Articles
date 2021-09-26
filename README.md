@@ -1,3 +1,3 @@
-# MLBooks
+# Machine Learning / Statistical Learning books and articles.
 
-Repo for books.
+Repo.
