@@ -1,3 +1,2 @@
-# Machine Learning / Statistical Learning books and articles.
+# Machine Learning / Statistical Learning / Quantitative Finance books / articles.
 
-Repo.
